@@ -1,0 +1,115 @@
+cabin or structure - if you venture so far into the woods, there  could be a cabin in the woods in the sasquatch zone.  in the building there could be something in it that is a random item.
+
+
+
+items - dig wormhole tunnel.
+items - garbage.  chance to find small items.  may find raccoons.
+items - different collars, do different things.  
+items - you could find items that would impart knowledge to your dog.
+items - bones
+
+
+
+bones - as a resource
+fresh bone - 
+yellow bone - 
+green bone - 
+fossil - used for character upgrade.  should differ from the bones in a meaningful way; maybe they are used for item upgrades?
+
+
+digging - dig to find items; dig to make tunnels; dig holes for bone storage.
+
+character stats - progression
+
+movement - get better at moving
+diggin - get faster at digging. depth for security? 
+swimming -
+barking - to scare, does damage, d20.  bark fail !yip!; bark succeed !woof!
+scent -
+hearing - better at identifying objects by sound.  false-positives.   sense of location, visual representation.  UI, player incentivization to investigate sounds.
+energy? -
+peeing - part of communication and general information gathering.
+jumping - fences, well defined obstacles.
+biting - 
+carrion - ability to eat garbage
+
+
+
+
+survival:
+food and drink
+rotten food may or may not hurt the player (RND)
+
+
+
+locations:
+1. starting town
+2. wooded area
+3. farmland
+4. city
+5. harbor town
+6. hillbilly town
+7. K9 mountain - someone on the mountain
+8. antarctica
+9. atlantis
+10. halloween town
+11. three bears
+12. underground?
+13. tree town
+
+actual places aren't cemented.  their locations are modular.
+
+
+
+
+NPCS:
+sasquatch - enemy
+bigfoot - enemy
+dogman - guardian angel
+mothman - warns about things that are going to happen.  phophetic.  Darkside.  he is an omen.
+play on aquaman
+stray dogs - enemy / friend
+fox
+raccoon
+cats - indifferent.  may help or hurt.  May give information that could help or hurt.  Cat mafia had dog fights??
+squirrel
+owl - know things that are going on in the forest.  Wise.  Will only help for favor.  special food.
+bear
+wolf - 
+coyote
+snek - found in bushes and tall grasses
+cars - enemy FTMP
+Vacuum roaming wilderness - vague brave little toaster reference.   makes crop circles.  aliens?  could be part of space win?
+necromancer - carry the remnants of old player corpse to necromancer.  Necromancer acts as a catalyst for the benefits.  Chance to failure.  (x5 benefit?) 20% chance of succeed.  75% zombie.  5% chance pure evil.
+
+
+
+
+
+
+endings
+1. you die
+2. viva la revolution
+3. outer space
+4. defeat bigfoot (true bigfoot)
+5. reach the north pole
+6. 'the good death'
+
+
+death: have some representation in following playthroughs of previous playthroughs.
+stumble on the remnants of one of the previous corpses from an earlier playthrough.  provides some benefit or choice.  
+
+
+
+dogs are very schedule oriented.  perhaps other dogs schedules can be manipulated via bork/pee.
+
+
+
+
+
+- character: movement, digging, swimming
+- design opening town
+
+
+
+
