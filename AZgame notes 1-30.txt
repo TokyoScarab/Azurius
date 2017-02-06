@@ -86,6 +86,14 @@ necromancer - carry the remnants of old player corpse to necromancer.  Necromanc
 
 
 
+Events:
+owner brings out a toy - the toy engages a combat event whereby picking it up causes imaginary enemies to appear.  Player can throw the ball through enemies to dispel them.
+
+
+
+
+
+
 
 endings
 1. you die
